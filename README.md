@@ -1,4 +1,4 @@
-# Lift Pump - Summary of Operation
+# Lift Pump - Summary of Operation (VSCODE)
 en francais à la fin
 
 what news ? watchdog, write everything in preference or spi files, and some factorisation and rebuild the ihm
