@@ -123,7 +123,14 @@ jusqu'a un rearmement de l'utilisateur par l'interface web
 
 - Assurez-vous de configurer les constantes appropriées dans le code, telles que les temps de fonctionnement et les broches utilisées.
 - Assurez-vous de disposer des bibliothèques nécessaires, telles que WiFi, DNSServer et AsyncWebServer. pour pouvoir compiler
-- j'ai fait le choix de tout mettre dans un seul fichier pour simplifier la compilation pour des novices avec la gui arduino-1.8.19
+
+maintenance sous vscode c'est plus sympa mais pas forcement plus simple pour les debutant.
+
+j'ai ajouter une carte fille watchdog car parfois l'esp32 se bloque https://github.com/ygueparm/aattiny_wdg
+
+<img src="https://github.com/ygueparm/aattiny_wdg/blob/main/situation.png?raw=true" width="300">
+
+depuis plus aucun pb, vous pouvez aller faire fabriquer soit le pcb soit la carte complete, le pcb seule par 5 coute 5€ les composant cms ne sont pas trop difficile a souder sans loupe ou microscope
 
 ## Remarque
 
