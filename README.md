@@ -130,7 +130,11 @@ j'ai ajouter une carte fille watchdog car parfois l'esp32 se bloque https://gith
 
 <img src="https://github.com/ygueparm/aattiny_wdg/blob/main/situation.png?raw=true" width="300">
 
+
+<img src="https://github.com/ygueparm/aattiny_wdg/blob/main/complet.jpg" width="300">
+
 depuis plus aucun pb, vous pouvez aller faire fabriquer soit le pcb soit la carte complete, le pcb seule par 5 coute 5€ les composant cms ne sont pas trop difficile a souder sans loupe ou microscope
+
 
 ## Remarque
 
